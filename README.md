@@ -9,17 +9,13 @@
 1. Клонируйте репозиторий:
 
 ```
-git clone <ваша_ссылка_на_репозиторий>
+git clone github.com/ilvemsh/GoTelegram
 cd quotes-api
 ```
 
-Инициализируйте модуль и установите зависимости:
-```
-go mod init quotes-api
-go get github.com/gorilla/mux
 ```
 Запустите сервер:
 ```
-go run main.go
+go run Quotes
 ```
 Сервер будет доступен по адресу: http://localhost:8080
