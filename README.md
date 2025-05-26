@@ -13,7 +13,6 @@ git clone github.com/ilvemsh/GoTelegram
 cd quotes-api
 ```
 
-```
 Запустите сервер:
 ```
 go run Quotes
